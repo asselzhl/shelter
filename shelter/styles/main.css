@@ -84,9 +84,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 .header__logo { 
     margin-right: 50px;
 }
-.logo__link { 
-    
-}
 .logo__title { 
     color: #F1CDB3;
     font-size: 32px;
@@ -128,9 +125,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
         position: absolute;
         right: 20px;
     }
-}
-.menu { 
-
 }
 @media (max-width: 740px) {
     .menu {
@@ -228,9 +222,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
         text-align: center;
     }  
 }
-.start__button { 
-
-}
 @media (max-width: 830px) {
     .start__button {
         margin: auto;
@@ -247,9 +238,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
     background: #F1CDB3;
     border-radius: 100px;
 }
-.start__image { 
-    
-}
 @media (max-width: 830px) {
     .start__image {
         margin-left: 170px;
@@ -265,9 +253,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 }
 
 /*----------------------------------ABOUT----------------------------------*/
-.about { 
-
-}
 .about__container { 
     display: flex;
     padding: 80px 0px 100px;
@@ -483,9 +468,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 }
 
 /*----------------------------------HELP----------------------------------*/
-.help { 
-
-}
 .help__container { 
     padding: 80px 0px 100px;
 }

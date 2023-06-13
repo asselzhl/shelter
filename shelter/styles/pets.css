@@ -84,9 +84,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 .header__logo { 
     margin-right: 50px;
 }
-.logo__link { 
-    
-}
 .logo__title { 
     color: #545454;
     font-size: 32px;
@@ -128,9 +125,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
         position: absolute;
         right: 20px;
     }
-}
-.menu { 
-
 }
 @media (max-width: 740px) {
     .menu {
